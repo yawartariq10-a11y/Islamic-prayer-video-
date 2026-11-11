@@ -1,0 +1,5 @@
+{
+  "_comment": "Copy to timing.json to override section start times (seconds). Takes priority over voiceover pause detection.",
+  "starts": {"intro": 0.0, "fajr": 9.0, "dhuhr": 14.5, "asr": 20.0, "maghrib": 26.5, "isha": 32.0, "closing": 37.5},
+  "end": 45.0
+}
